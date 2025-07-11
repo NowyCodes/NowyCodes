@@ -1,4 +1,6 @@
-## Hi there 👋
+- **Hi im @NowyCodes!**
+- **👀 Im intrested in Etchical Hacking! ^-^**
+- **🎉 Check out my youtube channel? : [Youtube]: https://www.youtube.com/@Nowyisnothere**
 
 <!--
 **NowyCodes/NowyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
