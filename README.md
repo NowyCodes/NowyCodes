@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building my skills :O<br>🌱 I’m currently learning about ethical hacking :-)<br>⚡ My hobby is coding :D
+🔭 I’m currently working on building my skills :O<br>🌱 I’m currently learning about htb for fun :-)<br>⚡ My hobby is coding :D
 
 
 ## 🌐 Socials:
